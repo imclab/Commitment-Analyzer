@@ -10,6 +10,7 @@ A simple bookmarklet to help you figure out how much you have commited to a fron
 
 * Add more frameworks
 * Add localstorage to keep track of modules used accross pages
+* Add Example pages
 
 ##Credits
 
