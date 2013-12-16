@@ -8,9 +8,11 @@ A simple bookmarklet to help you figure out how much you have commited to a fron
 
 #TODO
 
-* Add more frameworks
+* Add Grunt
 * Add localstorage to keep track of modules used accross pages
 * Add Example pages
+* Add UI to make it easier to use
+* Add more frameworks
 
 ##Credits
 
@@ -28,4 +30,4 @@ MIT License. See LICENSE for details.
 
 ##Copyright
 
-Copyright (c) 2013 Intridea, Inc.
+Copyright (c) 2013 Remy Martin &amp; Intridea, Inc.
